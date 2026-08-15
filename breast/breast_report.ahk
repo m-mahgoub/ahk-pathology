@@ -52,6 +52,7 @@ specimen descriptions. Always start with "b" (for breast).
   bl2ouscb      -> Breast, left, 2:00, ultrasound-guided core biopsy
   br10o5nstcb   -> Breast, right, 10:00, 5 cm from nipple, stereotactic core biopsy
   brpms         -> Breast, right, partial mastectomy
+  brms          -> Breast, right, mastectomy
 ==============================================================================
 */
 
