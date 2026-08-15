@@ -47,9 +47,11 @@ specimen descriptions. Always start with "b" (for breast).
   [Procedure]  b = biopsy | cb = core biopsy | ex = excision | ms = mastectomy | pms = partial mastectomy
 
   Examples:
-  brcb         -> Breast, right, core biopsy
-  bl2ouscb     -> Breast, left, 2:00, ultrasound-guided core biopsy
-  br10o5nstpms -> Breast, right, 10:00, 5 cm from nipple, stereotactic partial mastectomy
+  brcb          -> Breast, right, core biopsy
+  blb           -> Breast, left, biopsy
+  bl2ouscb      -> Breast, left, 2:00, ultrasound-guided core biopsy
+  br10o5nstcb   -> Breast, right, 10:00, 5 cm from nipple, stereotactic core biopsy
+  brpms         -> Breast, right, partial mastectomy
 ==============================================================================
 */
 
